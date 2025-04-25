@@ -15,3 +15,9 @@ El Árbol B es una estructura de datos ideal para sistemas de bases de datos y s
 - `nodo.java`: Clase que define el nodo del árbol B.
 - `BTree.java`: Clase que contiene la lógica principal del árbol B. 
 - `ArbolB.java`: Contiene el `main`, es la aplicación de consola para interactuar con el árbol.
+- 
+## 🎥 Video explicativo
+
+
+¡Gracias por revisar este proyecto!
+Att: Ing.Cachin :)
